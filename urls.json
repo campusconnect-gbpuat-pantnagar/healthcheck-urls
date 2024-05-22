@@ -1,10 +1,12 @@
 [
   {
     "serviceName": "GBPUAT DATA SERVICE",
-    "healthcheckUrl": "https://gbpuat-data-service.onrender.com/api/v1/healthcheck"
+    "healthcheckUrl": "https://gbpuat-data-service.onrender.com/api/v1/healthcheck",
+    "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/GBPUAT-DATA-SERVICE"
   },
   {
     "serviceName": "GBPUAT SECOND SERVICE",
-    "healthcheckUrl": "https://gbpuat-data-service.onrender.com/api/v1/healthchec"
+    "healthcheckUrl": "https://gbpuat-data-service.onrender.com/api/v1/healthchec",
+    "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/GBPUAT-DATA-SERVICE"
   }
 ]
