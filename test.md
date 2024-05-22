@@ -10,7 +10,10 @@ const healthcheckUrl=[
 
 ```javascript
 const emailAddress=[
- test@campusconnect.com
+{
+name:"Anmol Gangwar",
+email:"anmolgangwar@gmail.com"
+}
 ]
 ```
 
