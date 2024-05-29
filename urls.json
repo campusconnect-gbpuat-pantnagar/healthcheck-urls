@@ -6,6 +6,12 @@
     "deploymentUrl": "https://dashboard.render.com/web/srv-cp5alha1hbls73fcghi0"
   },
   {
+    "serviceName": "CAMPUSCONNECT AUTH BACKEND SERVICE",
+    "healthcheckUrl": "https://campusconnect-auth-backend-service.onrender.com/api/v1/healthcheck",
+    "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/campusconnect-auth-backend",
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpb70ftds78s73eq8u2g"
+  },
+  {
     "serviceName": "EMAIL AUTH NOTIFICATION WORKER SERVICE",
     "healthcheckUrl": "https://email-auth-notification-worker-service.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/email-auth-notification-worker",
