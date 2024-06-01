@@ -28,5 +28,11 @@
     "healthcheckUrl": "https://email-app-notification-worker-service-f5nn.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/email-app-notification-worker",
     "deploymentUrl": "https://dashboard.render.com/web/srv-cpde9rv109ks73ee1bog"
+  },
+  {
+    "serviceName": "CONTENT MODERATION  WORKER SERVICE",
+    "healthcheckUrl": "https://content-moderation-service.onrender.com/api/v1/healthcheck",
+    "githubRepoUrl": "https://github.com/cyberboyanmol/content-moderation-service",
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpdgfqtds78s73ehr3rg"
   }
 ]
