@@ -19,9 +19,9 @@
   },
   {
     "serviceName": "EMAIL AUTH NOTIFICATION WORKER SERVICE",
-    "healthcheckUrl": "https://email-auth-notification-worker-service.onrender.com/api/v1/healthcheck",
+    "healthcheckUrl": "https://email-auth-notification-worker-service-1i8o.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/email-auth-notification-worker",
-    "deploymentUrl": "https://dashboard.render.com/web/srv-cpb39rnsc6pc73a1klg0"
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpdeutfsc6pc738us12g"
   },
   {
     "serviceName": "EMAIL APP NOTIFICATION WORKER SERVICE",
