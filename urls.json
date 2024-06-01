@@ -25,8 +25,8 @@
   },
   {
     "serviceName": "EMAIL APP NOTIFICATION WORKER SERVICE",
-    "healthcheckUrl": "https://email-app-notification-worker-service.onrender.com/api/v1/healthcheck",
+    "healthcheckUrl": "https://email-app-notification-worker-service-f5nn.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/email-app-notification-worker",
-    "deploymentUrl": "https://dashboard.render.com/web/srv-cpbvof63e1ms739cjjmg"
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpde9rv109ks73ee1bog"
   }
 ]
