@@ -34,5 +34,11 @@
     "healthcheckUrl": "https://content-moderation-service.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/cyberboyanmol/content-moderation-service",
     "deploymentUrl": "https://dashboard.render.com/web/srv-cpdgfqtds78s73ehr3rg"
+  },
+  {
+    "serviceName": "UNIVERSITY NOTIFICATION  WORKER SERVICE",
+    "healthcheckUrl": "https://university-notification-worker-service.onrender.com/api/v1/healthcheck",
+    "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/university-notification-worker",
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpiqseq1hbls73bli50g"
   }
 ]
