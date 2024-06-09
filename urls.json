@@ -1,9 +1,9 @@
 [
   {
     "serviceName": "GBPUAT DATA SERVICE",
-    "healthcheckUrl": "https://gbpuat-data-service.onrender.com/api/v1/healthcheck",
+    "healthcheckUrl": "https://gbpuat-data-service-vr41.onrender.com/api/v1/healthcheck",
     "githubRepoUrl": "https://github.com/campusconnect-gbpuat-pantnagar/GBPUAT-DATA-SERVICE",
-    "deploymentUrl": "https://dashboard.render.com/web/srv-cp5alha1hbls73fcghi0"
+    "deploymentUrl": "https://dashboard.render.com/web/srv-cpin91sf7o1s73bjk93g"
   },
   {
     "serviceName": "CAMPUSCONNECT AUTH BACKEND SERVICE",
